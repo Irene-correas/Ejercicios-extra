@@ -1,0 +1,9 @@
+.js-palettes-container {
+  display: flex;
+}
+
+.color_item {
+  border: 1px solid black;
+  height: 80px;
+  width: 80px;
+}
